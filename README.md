@@ -58,3 +58,4 @@ code[i]=1 followed by code[i];
 p=father(p);
 }
 }
+
